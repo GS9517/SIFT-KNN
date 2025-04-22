@@ -1,1 +1,8 @@
 Aerial_Landscapes
+origin/img
+origin/sift_descriptors.pkl
+
+enforced/img
+enforced/sift_enforced_descriptors_list.pkl
+unbalanced/img
+unbalanced/sift_unbalanced_descriptors_list.pkl
